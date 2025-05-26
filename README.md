@@ -16,3 +16,7 @@ the main questions they’d like to answer:
 ● Where are customers with a high lifetime value based?
 
 ● Do sales figures vary between geographic regions?
+
+## Data Overview:
+
+The Rockbuster Stealth LLC dataset contains key information about the company's film inventory, customers, and payments, which will be used for analysis in PostgreSQL.
